@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Codeguru1609
+- 👋 Hi, I’m @Sayanidas16
 - 👀 I’m interested in exploring Web Development
 - 🌱 I’m currently learning b.tech- cse @Adamas UNiversity
 - 💞️ I’m looking to collaborate on learning and exploring new stuff
